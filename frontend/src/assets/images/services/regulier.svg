@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+  <rect width="400" height="300" fill="#f0fdf4"/>
+  <circle cx="340" cy="60" r="55" fill="#dcfce7"/>
+  <circle cx="45" cy="250" r="45" fill="#bbf7d0" opacity="0.7"/>
+  <!-- Calendrier -->
+  <g transform="translate(120,60)">
+    <rect x="0" y="10" width="160" height="150" rx="14" fill="#ffffff" stroke="#15803d" stroke-width="8"/>
+    <rect x="0" y="10" width="160" height="36" rx="14" fill="#15803d"/>
+    <rect x="25" y="-6" width="12" height="34" rx="6" fill="#166534"/>
+    <rect x="123" y="-6" width="12" height="34" rx="6" fill="#166534"/>
+    <g fill="#bbf7d0">
+      <rect x="20" y="60" width="20" height="20" rx="4"/>
+      <rect x="52" y="60" width="20" height="20" rx="4"/>
+      <rect x="84" y="60" width="20" height="20" rx="4"/>
+      <rect x="116" y="60" width="20" height="20" rx="4"/>
+      <rect x="20" y="92" width="20" height="20" rx="4"/>
+      <rect x="84" y="92" width="20" height="20" rx="4"/>
+      <rect x="116" y="92" width="20" height="20" rx="4"/>
+    </g>
+    <rect x="52" y="92" width="20" height="20" rx="4" fill="#22c55e"/>
+    <path d="M56 102 l4 5 8 -9" fill="none" stroke="#ffffff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <!-- Fleche de repetition -->
+  <g transform="translate(230,215)" stroke="#16a34a" stroke-width="9" fill="none" stroke-linecap="round">
+    <path d="M0 0 a30 30 0 1 1 -8 22"/>
+    <path d="M-16 12 l -0 12 12 -4" fill="#16a34a" stroke="none"/>
+  </g>
+</svg>

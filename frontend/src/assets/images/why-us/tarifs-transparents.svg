@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 300">
+  <circle cx="150" cy="150" r="140" fill="#f0fdf4"/>
+  <circle cx="150" cy="150" r="105" fill="#dcfce7"/>
+  <!-- Etiquette de prix -->
+  <g transform="translate(150,155) rotate(-8)">
+    <path d="M-85 -40 L20 -40 L85 25 L20 90 L-85 90 Z" fill="#ffffff" stroke="#15803d" stroke-width="10" stroke-linejoin="round"/>
+    <circle cx="-55" cy="-8" r="12" fill="#dcfce7" stroke="#16a34a" stroke-width="6"/>
+    <text x="-30" y="42" font-family="Arial, sans-serif" font-size="52" font-weight="bold" fill="#15803d">$</text>
+  </g>
+  <circle cx="70" cy="240" r="9" fill="#86efac"/>
+  <circle cx="235" cy="80" r="7" fill="#4ade80"/>
+  <circle cx="245" cy="215" r="10" fill="#bbf7d0"/>
+</svg>

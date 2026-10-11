@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 100">
+  <g transform="translate(14,16)">
+    <path d="M0 42 C0 12 24 0 48 0 C42 26 26 42 0 42 Z" fill="#22c55e" stroke="#15803d" stroke-width="4" stroke-linejoin="round"/>
+  </g>
+  <text x="70" y="46" font-family="Arial, sans-serif" font-size="24" font-weight="800" fill="#15803d">EcoClean</text>
+  <text x="70" y="68" font-family="Arial, sans-serif" font-size="15" fill="#4b5563">Products</text>
+</svg>
